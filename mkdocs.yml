@@ -1,0 +1,6 @@
+site_name: MkDocs Assignment
+theme:
+  name: material
+
+copyright: |
+  &copy; copyright here
