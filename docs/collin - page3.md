@@ -1,6 +1,7 @@
 ---
 title: Setting Custom Key Bindings
 ---
+Two different ways 
 1. go to preferences -> keyboard shortcuts to get keyboard shortcut editor 
 2. search for desired key command using search bar 
 3. press pencil to edit key binding 
