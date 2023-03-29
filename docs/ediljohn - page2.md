@@ -2,18 +2,25 @@
 title: Importing and Exporting Profiles
 ---
 
-### Introduction
+## Overview
+In this section you will learn about creating, importing, and exporting user profiles. Profiles allow you to save your settings and extensions into a file. This is helpful when you want to keep them across devices. 
 
+## Creating and Switching Profiles
+1. Navigate to File > Preferences > Profiles (Default) on the top bar.
+2. Click on Create Profile...
+3. Select Create an Empty Profile...
+4. Enter a name for your profile and press Enter.
 
-navigate to file > preferences on the top bar > profiles > create profile select
-select create from empty profile
-enter a name for the profile
-follow step 1 to view all profiles
-choose the profile you want
+Your profile was created, so you'll switch to it to check.
 
-(exporting a profile) navigate to the profiles tab
-select export profile
-select the settings or extension you want to keep
+5. Follow Step 1. to view the list of profiles.
+6. Click on the profile with the name you previously entered.
+
+## Exporting a Profile
+1. Navigate to File > Preferences > Profiles (Default).
+2. Click on Export Profile...
+3. Select the settings or extensions you want to keep on the menu that appears on the left.
+4. Press the Export button when finished.
 when finished, press the export button
 enter a name for the profile
 select if you want to export as a file or to github choose file for example
