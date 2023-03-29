@@ -9,7 +9,7 @@ In this section you will learn about creating, importing, and exporting user pro
 1. Navigate to File > Preferences > Profiles (Default) on the top bar.
 2. Click on Create Profile...
 3. Select Create an Empty Profile...
-4. Enter a name for your profile and press Enter.
+4. Input a name for your profile and press Enter.
 
 Your profile was created, so you'll switch to it to check.
 
@@ -21,12 +21,12 @@ Your profile was created, so you'll switch to it to check.
 2. Click on Export Profile...
 3. Select the settings or extensions you want to keep on the menu that appears on the left.
 4. Press the Export button when finished.
-when finished, press the export button
-enter a name for the profile
-select if you want to export as a file or to github choose file for example
-select a file path for your profile
-Success window when profile file created
+5. Input a name for the profile and press Enter.
+6. Choose Local file for Export Profile As.
+7. Select a path where you want to save the file to.
+8. A success window will pop up when the file is created
 
+## Importing a Profile
 (importing profile) navigate to profiles > import profile
 enter url or import local file
 verify settings and press import
