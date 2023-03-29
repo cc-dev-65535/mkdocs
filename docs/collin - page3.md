@@ -1,1 +1,3 @@
-# Page 3
+---
+title: Setting Custom Key Bindings
+---
