@@ -1,4 +1,1 @@
-# MkDocs User Documentation Assignment
-
-Ediljohn  
-Collin  
+# mkdocs
