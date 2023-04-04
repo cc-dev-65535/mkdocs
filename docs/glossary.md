@@ -8,4 +8,11 @@ JSON is a data representation format that is common for transferring data betwee
 ### IntelliSense 
 A catch-all term for VS Code editor features that improve developer experience by providing useful functions such as automatic code completion, type information for parameters and more.
 
+
+### Code Snippet
+
+### Extensions
+
 ### .code-profile
+
+

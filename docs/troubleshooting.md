@@ -7,3 +7,5 @@ title: Troubleshooting Common Issues
 ### I want to delete a snippet as it is no longer useful
 
 ### I can't find my desired key binding through the key shortcut editor
+
+### I accidently imported the wrong profile
