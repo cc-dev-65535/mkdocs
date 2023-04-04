@@ -11,7 +11,7 @@ In this section you will learn about creating, importing, and exporting user pro
 3. Select Create an Empty Profile...
 4. Input a name for your profile and press Enter.
 
-Your profile was created, so you'll switch to it to check.
+Your profile was created, so now you will switch to it to check.
 
 5. Follow Step 1. to view the list of profiles.
 6. Click on the profile with the name you previously entered.
@@ -28,7 +28,8 @@ Your profile was created, so you'll switch to it to check.
 
 ### Importing a Profile
 1. Navigate to File > Preferences > Profiles (Default).
-enter url or import local file
-verify settings and press import
-success!
+2. Select "Import from profile file"
+3. Locate the directory which contains your code-profile file and click open.
+4. Verify the setting and extensions you want to keep and select Import Profile.
+5. Your profile was successfully imported.
 
