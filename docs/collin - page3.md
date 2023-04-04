@@ -4,6 +4,7 @@ title: Setting Custom Key Bindings
 There are two methods for setting custom key bindings, the first method is more convenient but does not work for all possible key bindings. In those case, you should use method 2, which allows for maximum customization. 
 ### Method 1
 1. From the file, go to preferences and then keyboard shortcuts to get to the keyboard shortcut editor. 
+![image](images/Capture3.PNG)
 2. Search for your desired key command by entering text into the search bar. You can also click the record keys button on the right hand side of the search bar to record your key strokes typed into the search bar. 
 3. Press pencil to edit the key binding for the entered key command. 
 4. Enter your desired key binding in the popup and click enter. The entered key is now bound to the key command you searched for. 
