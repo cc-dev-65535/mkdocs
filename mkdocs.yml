@@ -2,5 +2,13 @@ site_name: Visual Studio Code Tips
 theme:
   name: material
 
+nav:
+    - 'index.md'
+    - 'ediljohn - page2.md'
+    - 'collin - page3.md'
+    - 'collin - page4.md'
+    - 'glossary.md'
+    - 'troubleshooting.md'
+
 copyright: |
   &copy; Collin and Ediljohn
