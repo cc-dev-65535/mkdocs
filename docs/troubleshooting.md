@@ -11,6 +11,7 @@ Follow the steps in the **Making Code Snippets** section to open the snippet fil
 If the search function in the keyboard shortcut editor is not helpful for finding a key binding then you should refer to **method 2** in the **Setting Custom Key Bindings** section. This method will work for all possible key bindings in VS Code provided you know what command identifiers to enter into the "command" clause.
 
 ### I accidentally imported the wrong profile
-Reset your system settings to the default.
+You can always reset your current profile to the VS Code default through the same menu that you use for importing and exporting profiles.
 
-### 
+### I set a key binding but it doesn't work
+Ensure that your key binding does not conflict with a system-default key binding. If this is the case then using **method 2** in the **Setting Custom Key Bindings** section would allow you to override this default.

@@ -25,14 +25,14 @@ Code Snippets are blocks of pre-written code that can be conveniently inserted i
 
     ...
     ```
-5. Fill out the **body** value with the code snippet that will be inserted when the snippet shortcut is clicked. Use *placeholder values* of $1, $2, $3, and so on in ascending order that allow you to *tab* through positions in the snippet where you can enter initial values when you choose to insert a snippet. The colons after these placeholder values set the default value if you choose not to enter a value at that position. Note that the **body** value is an array of strings that is joined into a single line when the snippet is inserted.
+5. Fill out the **body** value with the code snippet that will be inserted when the snippet shortcut is clicked. Use *placeholder values* of $1, $2, $3, and so on in ascending order that allow you to *tab* through positions in the snippet where you can enter initial values when you choose to insert a snippet. The colons after these placeholder values set the default value if you choose not to enter a value at that position. Note that the **body** value is an array of strings that is joined into a single line when the snippet is inserted.  
     ```
-    ...
+    ...  
 
-    "body": ["for index, ${1:element} in enumerate(${2:list}):\n\t"],
+    "body": ["for index, ${1:element} in enumerate(${2:list}):\n\t"],  
 
-    ...
-    ```
+    ...  
+    ```  
 6. Fill out a **description** value that will be displayed alongside the snippet title in the IntelliSense shortcut menu when the snippet shortcut is visible. 
     ```
     ...
