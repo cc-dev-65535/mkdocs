@@ -12,11 +12,11 @@ Code Snippets are blocks of pre-written code that can be conveniently inserted i
 3. Write your code snippets in the following JSON format below. In this format, **prefix** is the specific text that will trigger the IntelliSense shortcut menu where you can select your snippet, **body** is what will be inserted if the user clicks the snippet shortcut in the IntelliSense shortcut menu, **description** is what is displayed alongside the snippet in the IntelliSense shortcut menu. You should also give your snippet a title (e.g., "enumerate list" in this example) that is displayed in the IntelliSense shortcut menu.
 
     ```
-    "enumerate list": {
-		"prefix": ["enumerate"],
-		"body": ["for index, in enumerate():\n\t"],
-		"description": "make numeric indexes for a list"
-    }
+    "enumerate list": {  
+		"prefix": ["enumerate"],  
+		"body": ["for index, in enumerate():\n\t"],  
+		"description": "make numeric indexes for a list"  
+    }  
     ```
 
 4. Fill out the **prefix** value with your desired trigger words for the snippet. This will be an array of strings that will cause the snippet shortcut (with the written name) to be displayed in the IntelliSense shorcut menu.
