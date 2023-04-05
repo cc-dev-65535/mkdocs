@@ -19,13 +19,13 @@ These instructions detail how to bind keys to keyboard commands. There are two m
 2. You can add your own key bindings in JSON format into the keybindings.json tab that appears in your editor. 
 ![image](images/page3-img5.PNG)
 3. Add your key command bindings in the JSON format below. In this format, **key** will take the key you want to bind, **command** will take the command identifier of the command that the key triggers, and **when** sets the scope of the key binding while in VS Code and is optional (the default is global editor scope).
-    ```
+```
     {
         "key": "ctrl+p",
         "command": "deleteLeft",
         "when": "textInputFocus"
     }
-    ```
+```
 4. Save and close the JSON file. The key bindings you set can now be used within the editor.
 
 ## Conclusion
