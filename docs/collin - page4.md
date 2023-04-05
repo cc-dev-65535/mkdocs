@@ -51,7 +51,7 @@ Use *placeholder values* of $1, $2, $3, and so on in ascending order that allow 
 
     ...
 ```
-That will be displayed alongside the snippet title in the IntelliSense shortcut menu when the snippet shortcut is visible. 
+This text will be displayed alongside the snippet title in the IntelliSense shortcut menu when the snippet shortcut is visible. 
   
 7\. *Test* out your code snippet by *creating* a file in your selected programming language and *typing* the prefix words you entered previously. You can then *select* the code snippet with the prefix name from the IntelliSense menu.
 ![image](images/page4-img3.png)
