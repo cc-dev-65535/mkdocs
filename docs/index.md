@@ -2,7 +2,7 @@
 title: Introduction
 ---
 
-### Introduction
+### Overview
 Welcome! This guide is all about helping you set up a working environment in VS Code in Windows. You will learn how to set custom key bindings, profiles, and code snippets.
 
 VS Code is a simple yet powerful IDE that many developers use, but may be intimidating to beginners. Following these instructions will help you become a more efficient developer.
