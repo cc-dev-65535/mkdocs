@@ -10,15 +10,15 @@ In this section you will learn about creating, importing, and exporting user pro
 ![image](images/page2-img1.jpg)
 2. Click on Create Profile...
 3. Select Create an Empty Profile...
-![image](images/page2-img2.jpg)
+![image](images/page2-img2.png)
 4. Input a name for your profile and press Enter.
-![image](images/page2-img3.jpg)
+![image](images/page2-img3.png)
 
 Your profile was created, so now you will switch to it to check.
 
 5. Follow Step 1. to view the list of profiles.
 6. Click on the profile with the name you previously entered.
-![image](images/page2-img4.jpg)
+![image](images/page2-img4.png)
 
 ### Exporting a Profile
 1. Navigate to File > Preferences > Profiles (Default).
