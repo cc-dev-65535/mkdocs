@@ -14,7 +14,6 @@ Beginner to intermediate level programmers who are using VSCode for the first ti
 * A Computer
 * VSCode Installation
 * Working knowledge of simple programming concepts
-* 
 
 ### Conventions
 #### **Action**
@@ -24,6 +23,7 @@ Most of the instructions have more than one completions method, or they may have
 
 ### Instructions Overview
 These instructions will teach you all about:
+
 * Cusom Key Bindings
 * Profiles
 * Code Snippets
