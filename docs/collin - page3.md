@@ -2,7 +2,7 @@
 title: Setting Custom Key Bindings
 ---
 ## Overview
-These instructions detail how to bind keys to keyboard commands. There are two methods for setting custom key bindings. The first method is more convenient but is harder to use for key bindings that conflict with system-defined key bindings. In those cases, you should use method 2, which allows for maximum customization.  
+These instructions detail how to bind keys to keyboard commands. There are two methods for setting custom key bindings. The first method is more convenient but is harder to use for complex key bindings. In those cases, you should use method 2, which allows for maximum customization.  
 
 ### Method 1: Keyboard Shortcuts Editor
 1. From the **File** menu, click **Preferences** and then **Keyboard Shortcuts** to get to the keyboard shortcuts editor.
@@ -18,15 +18,14 @@ These instructions detail how to bind keys to keyboard commands. There are two m
 ![image](images/page3-img4.PNG)
 2. You can add your own key bindings in JSON format into the keybindings.json tab that appears in your editor. 
 ![image](images/page3-img5.PNG)
-3. Write your key command bindings in the JSON format below. In this format, **key** will take the key you want to bind, **command** will take the command that the key triggers, and **when** sets the scope of the key binding while in VS Code and is optional (the default is global editor scope).
+3. Write your key command bindings in the JSON format below. In this format, **key** will take the key you want to bind, **command** will take the command identifier of the command that the key triggers, and **when** sets the scope of the key binding while in VS Code and is optional (the default is global editor scope).
 ```
 {
     "key": "ctrl+p",
     "command": "deleteLeft",
-    "when": ""
+    "when": "textInputFocus"
 }
 ```
-4. Use this picture as reference for common "key", "command", and "when" values to enter when filling in the JSON object values in the above step.
 
 ## Conclusion
 You have learned how to set your own key bindings in VS Code. Take a look at some of the other instruction guides to further improve your productivity in VS Code.
