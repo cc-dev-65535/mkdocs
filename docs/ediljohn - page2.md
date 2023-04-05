@@ -10,8 +10,10 @@ This section teaches you about creating profiles and switching to them. You will
 
 1\. *Navigate* to **File > Preferences > Profiles** (Default) on the top bar.
 ![image](images/page2-img1.jpg)
+  
 2\. *Click* on **Create Profile...**
-3\. *Select* **Create an Empty Profile...**
+
+3\. *Select* **Create an Empty Profile...**  
 ![image](images/page2-img2.png)
 
 There is also the option to create a profile from your current settings if you wish.
@@ -31,8 +33,8 @@ You now know how to create a profile!
 This section teaches you how to export a profile as file.
 
 1\. *Navigate* to **File > Preferences > Profiles (Default).**
-
 ![image](images/page2-img1.jpg)
+  
 2\. *Click* on **Export Profile...**
 
 3\. *Select* the **settings** or **extensions** you want to keep on the menu that appears on the left.
@@ -44,7 +46,7 @@ You can *modify* the exact settings you want inside of the **settings.json** fil
 
 5\. *Input* a name for the profile and press **Enter**.
 
-6\. *Choose* **Local file** for **Export Profile As**.
+6\. *Choose* **Local file** for **Export Profile As**.  
 ![image](images/page2-img9.png)
 
 You can also *choose* to **save** the file as a GitHub gist, but *select* **Local file** for simplicity.
@@ -54,7 +56,7 @@ You can also *choose* to **save** the file as a GitHub gist, but *select* **Loca
 ![image](images/page2-img10.JPG)
 
 
-8\. A **success window** will pop up when the file is created
+8\. A **success window** will pop up when the file is created.  
 ![image](images/page2-img6.JPG)
 
 You have now *created* a code-profile file, which you can **share** or **import** at a later time.
@@ -65,14 +67,14 @@ This section teaches you to import a profile file that you or someone else may h
 1\. *Navigate* to **File > Preferences > Profiles (Default).**
 ![image](images/page2-img1.jpg)
 
-2\. *Select* **Import from profile file**
+2\. *Select* **Import from profile file**  
 ![image](images/page2-img7.JPG)
 
 You can also enter a Gist URL for this step.
 
 3\. *Locate* the **directory** which contains your code-profile file and *click* **open**.
 
-4\. *Verify* the setting and extensions you want to keep and *select* **Import Profile**.
+4\. *Verify* the setting and extensions you want to keep and *select* **Import Profile**.  
 ![image](images/page2-img8.JPG)
 
 You have now *imported* the profile with all desired settings and extensions! 

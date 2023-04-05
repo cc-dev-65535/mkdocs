@@ -3,7 +3,6 @@ theme:
   name: material
   logo: images/vscode-icon.svg
   features:
-    - navigation.tabs
     - navigation.sections
     - toc.integrate
     - search.suggest
