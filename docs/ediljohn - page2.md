@@ -37,7 +37,7 @@ This section teaches you how to export a profile as file.
   
 2\. *Click* on **Export Profile...**
 
-3\. *Select* the **settings** or **extensions** you want to keep on the menu that appears on the left.
+3\. *Select* the **settings** or **extensions** you want to keep on the menu that appears on the left.  
 ![image](images/page2-img5.JPG)
 
 You can *modify* the exact settings you want inside of the **settings.json** file.
