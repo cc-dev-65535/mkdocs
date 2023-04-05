@@ -10,6 +10,7 @@ Code Snippets are blocks of pre-written code that can be conveniently inserted i
 2. Code snippets are usually scoped by programming language so find and select the snippet file of your desired programming language using the search bar to add a snippet for it. This will cause the snippet file (a JSON file) to display in the editor. Optionally, you can make your snippet global for use in all languages by clicking **New Global Snippets file...**.
 ![image](images/page4-img2.PNG)
 3. Write your code snippets in the following JSON format below. In this format, **prefix** is the specific text that will trigger the IntelliSense shortcut menu where you can select your snippet, **body** is what will be inserted if the user clicks the snippet shortcut in the IntelliSense shortcut menu, **description** is what is displayed alongside the snippet in the IntelliSense shortcut menu. You should also give your snippet a title (e.g., "enumerate list" in this example) that is displayed in the IntelliSense shortcut menu.
+
 ```
     "enumerate list": {
 		"prefix": ["enumerate"],
@@ -17,6 +18,7 @@ Code Snippets are blocks of pre-written code that can be conveniently inserted i
 		"description": "make numeric indexes for a list"
 	}
 ```
+
 4. Fill out the **prefix** value with your desired trigger words for the snippet. This will be an array of strings that will cause the snippet shortcut (with the written name) to be displayed in the IntelliSense shorcut menu.
     ```
     ...
