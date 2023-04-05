@@ -2,8 +2,6 @@
 title: Introduction
 ---
 
-![image](images/vscode-icon.svg)
-
 ## Overview
 Welcome! This guide is all about helping you set up a working environment in VS Code in Windows. You will learn how to set custom key bindings, profiles, and code snippets.
 
