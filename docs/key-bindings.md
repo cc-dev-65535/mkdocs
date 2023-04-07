@@ -9,10 +9,10 @@ These instructions detail how to bind keys to keyboard commands. There are two m
 ![image](images/page3-img1.PNG)
 This will take you to the keyboard shortcuts editor.
   
-2\. *Search* for the key command you want to change by entering the key command's name into the search bar at the top of the edtior.  
+2\. *Search* for the key command you want to change by entering the key command's name into the search bar at the top of the editor.  
 *Note: For a more convenient option, you can also *click* the **Record Keys** icon (highlighted in red below) on the right hand side of the search bar.*
 ![image](images/page3-img2.PNG)
-This allows you to record key strokes typed into the search bar and search for key command's that are currently bound to those entered key(s).
+The **Record Keys** option allows you to record key strokes typed into the search bar and search for key commands that are currently bound to those entered key(s).
   
 3\. *Hover* over the key command you want to change and *click* the pencil icon that appears on the left.
 ![image](images/page3-img3.png)
@@ -28,7 +28,7 @@ This will take you to the keyboard shortcuts editor.
 2\. *Click* the **Open Keyboard Shortcuts(JSON)** icon from the top right of the shortcut editor. 
 ![image](images/page3-img4.PNG)
   
-3\. *Add* your own key bindings in JSON format into the keybindings.json tab that appears in your editor. 
+3\. *Add* your own key bindings in JSON format into the keybindings.json file tab that appears in your editor. 
 ![image](images/page3-img5.PNG)
   
 4\. Add your key command bindings in the JSON format below.

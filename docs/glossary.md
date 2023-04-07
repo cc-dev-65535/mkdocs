@@ -14,7 +14,7 @@ A programming construct that represents a collection of similar things delineate
 ## Boolean
 A programming concept that represents a value of true or false.
 
-## .code-profile
+## code-profile
 The file extension of profiles that are created by VS Code for importing and exporting.
 
 ## IDE
