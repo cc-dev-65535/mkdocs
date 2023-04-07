@@ -3,6 +3,7 @@ title: Setting Custom Key Bindings
 ---
 ## Overview
 These instructions detail how to bind keys to keyboard commands. There are two methods for setting custom key bindings. The first method is more convenient but is harder to use for complex key bindings. In those cases, you should use the second method, which allows for maximum customization by editing key bindings directly from a JSON file that is loaded by VS Code.  
+
 ### Method 1: Keyboard Shortcuts Editor
 1\. From the **File** menu, *click* **Preferences** and then *click* **Keyboard Shortcuts**.
 ![image](images/page3-img1.PNG)

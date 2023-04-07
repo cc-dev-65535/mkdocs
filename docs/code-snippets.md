@@ -11,7 +11,7 @@ This will display the snippets file selector popup.
   
 2\. *Find* and *select* the snippet file of your desired programming language using the search bar.
 ![image](images/page4-img2.PNG)
-This will cause the snippet file (a JSON file) of the selected programming language to display in the editor. Code snippets are usually specific to a programming language. Optionally, you can make your snippet global for use in all languages by *clicking* **New Global Snippets file...**.  
+This will cause the snippet file (a JSON file) of the selected programming language to display in the editor. Code snippets are usually specific to a programming language (i.e., they can only be inserted while coding in that specific language). Optionally, you can make your snippet global for use in all languages by *clicking* **New Global Snippets file...**.  
   
 3\. *Write* your code snippets in the following JSON format below.
 ```
