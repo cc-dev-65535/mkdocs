@@ -19,6 +19,7 @@ This section teaches you about creating profiles and switching to them. You will
 There is also the option to create a profile from your current settings if you wish.
 
 4\. *Input* a name for your profile and press **Enter.**  
+  
 ![image](images/page2-img3.png)
 
 Your profile was created, so now you will switch to it to check.
