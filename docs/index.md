@@ -25,6 +25,6 @@ When refering to section headings in text, they will also be italicized. For exa
 
 ## Instructions Overview
 These instructions will teach you all about  
-* *Setting Custom Key Bindings*
-* *Importing and Exporting Profiles*
+* *Setting Custom Key Bindings*  
+* *Importing and Exporting Profiles*  
 * *Making Code Snippets*

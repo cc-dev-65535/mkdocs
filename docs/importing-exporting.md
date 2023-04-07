@@ -77,7 +77,7 @@ You can also enter a Gist URL for this step.
 4\. *Verify* the setting and extensions you want to keep and *select* **Import Profile**.  
 ![image](images/page2-img8.JPG)
 
-You have now *imported* the profile with all desired settings and extensions! 
+You have now imported the profile with all desired settings and extensions! 
 
 ### Conclusion
-At the end of this section, you will have mastered creating, importing, and exporting profiles. You will also know exactly what is saved inside of a profile file. Continue to the next section to learn more about VSCode.
+At the end of this section, you will have mastered creating, importing, and exporting profiles. You will also know exactly what is saved inside of a profile file. Continue to the next section to learn more about VS Code.
