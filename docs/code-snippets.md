@@ -6,7 +6,7 @@ Code Snippets are blocks of pre-written code that can be conveniently inserted i
 
 ## Steps
 1\. From the **File** menu, *click* **Preferences** and then *click* **Configure User Snippets**.
-![image](images/page4-img1.png)
+![image](images/page4-img1.png)  
 This will display the snippets file selector popup.  
   
 2\. *Find* and *select* the snippet file of your desired programming language using the search bar.
