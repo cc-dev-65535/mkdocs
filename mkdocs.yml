@@ -1,4 +1,4 @@
-site_name: Visual Studio Code Tips
+site_name: Visual Studio Code Guide
 theme:
   name: material
   logo: images/vscode-icon.svg
@@ -26,9 +26,9 @@ theme:
 
 nav:
     - 'index.md'
-    - 'ediljohn - page2.md'
-    - 'collin - page3.md'
-    - 'collin - page4.md'
+    - 'importing-exporting.md'
+    - 'key-bindings.md'
+    - 'code-snippets.md'
     - 'glossary.md'
     - 'troubleshooting.md'
 
