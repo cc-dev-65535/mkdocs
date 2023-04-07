@@ -18,12 +18,13 @@ This section teaches you about creating profiles and switching to them. You will
 
 There is also the option to create a profile from your current settings if you wish.
 
-4\. *Input* a name for your profile and press **Enter.**
+4\. *Input* a name for your profile and press **Enter.**  
 ![image](images/page2-img3.png)
 
 Your profile was created, so now you will switch to it to check.
 
 5\. Follow Step 1. to view the list of profiles.
+  
 6\. *Click* on the **profile** with the name you previously entered.
 ![image](images/page2-img4.png)
 
