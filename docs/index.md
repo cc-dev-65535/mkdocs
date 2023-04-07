@@ -24,9 +24,7 @@ When text is **bolded**, it indicates something you can interact with. For examp
 When refering to section headings in text, they will also be italicized. For example, the section *Importing and Exporting Profiles* follows this section. 
 
 ## Instructions Overview
-<br>
-These instructions will teach you all about
-</br>
+These instructions will teach you all about  
 
 * Setting Custom Key Bindings
 * Importing and Exporting Profiles
