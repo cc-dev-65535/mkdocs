@@ -43,7 +43,7 @@ In this format, *prefix* is the specific text that will trigger the IntelliSense
 ```
 Use *placeholder values* of $1, $2, $3, and so on in ascending order that allow you to *tab* through positions in the snippet where you can enter initial values when you choose to insert a snippet. The colons after these placeholder values set the default value if you choose not to enter a value at that position. Note that the *body* value is an array of strings that is joined into a single line when the snippet is inserted.
   
-6\. *Fill out* a **description** value.
+6\. *Fill out* a *description* value.
 ```
     ...
 
@@ -58,4 +58,4 @@ This text will be displayed alongside the snippet title in the IntelliSense shor
 The code snippet will be inserted at the cursor position.
 
 ## Conclusion
-You have learned how to create your own code snippets in VS Code. Take a look at some of the other instruction guides to further improve your productivity in VS Code.
+You have learned how to create your own code snippets in VS Code. Take a look at some of the other instruction sections to further improve your productivity in VS Code.

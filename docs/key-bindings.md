@@ -43,4 +43,4 @@ In this format, **key** will take the key you want to bind, **command** will tak
 5\. Save and close the JSON file. The key bindings you set can now be used within the editor.
 
 ## Conclusion
-You have learned how to set your own key bindings in VS Code. Take a look at some of the other instruction guides to further improve your productivity in VS Code.
+You have learned how to set your own key bindings in VS Code. Take a look at some of the other instruction sections to further improve your productivity in VS Code.
