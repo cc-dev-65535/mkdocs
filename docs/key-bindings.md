@@ -9,7 +9,8 @@ These instructions detail how to bind keys to keyboard commands. There are two m
 ![image](images/page3-img1.PNG)
 This will take you to the keyboard shortcuts editor.
   
-2\. *Search* for the key command you want to change by entering the key command's name into the search bar at the top of the edtior. For a more convenient option, you can also *click* the **Record Keys** icon on the right hand side of the search bar. 
+2\. *Search* for the key command you want to change by entering the key command's name into the search bar at the top of the edtior.  
+*Note: For a more convenient option, you can also *click* the **Record Keys** icon (highlighted in red below) on the right hand side of the search bar.*
 ![image](images/page3-img2.PNG)
 This allows you to record key strokes typed into the search bar and search for key command's that are currently bound to those entered key(s).
   
