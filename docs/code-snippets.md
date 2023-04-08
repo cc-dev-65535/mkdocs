@@ -21,7 +21,7 @@ This will cause the snippet file (a JSON file) of the selected programming langu
 		"description": "make numeric indexes for a list"
     }
 ```
-In this format, *prefix* is the specific text that will trigger the IntelliSense shortcut menu where you can select your snippet, *body* is what will be inserted if the user clicks the snippet shortcut in the IntelliSense shortcut menu, and *description* is what is displayed alongside the snippet in the IntelliSense shortcut menu. You should also give your snippet a title (e.g., "enumerate list" in this example) that is displayed in the IntelliSense shortcut menu.
+In this format, *prefix* is the specific text that will trigger the IntelliSense shortcut menu where you can select your snippet, *body* is what will be inserted if the user clicks the snippet shortcut in the IntelliSense shortcut menu, and *description* is what is displayed alongside the snippet in the IntelliSense shortcut menu. You must also give your snippet a *title* (e.g., "enumerate list" in this example) that is displayed in the IntelliSense shortcut menu.
   
 4\. *Fill out* the *prefix* value with your desired trigger words for the snippet.
 ```
