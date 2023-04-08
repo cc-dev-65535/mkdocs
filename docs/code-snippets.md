@@ -31,7 +31,7 @@ In this format, *prefix* is the specific text that will trigger the IntelliSense
 
     ...
 ```
- This will be an array of strings that will cause the snippet shortcut (with the written name) to be displayed in the IntelliSense shorcut menu.
+ This will be an array of strings that will cause the snippet shortcut (with the written name) to be displayed in the IntelliSense shortcut menu.
   
 5\. *Fill out* the *body* value with the code snippet that will be inserted when the snippet shortcut is clicked.
 ```

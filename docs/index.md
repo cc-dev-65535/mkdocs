@@ -21,7 +21,7 @@ When text is *italicized*, it indicates an action taken by the user.
 ### **Interactions**
 When text is **bolded**, it indicates something you can interact with. For example, you may *click* on **Confirm**.
 ### *Sections*
-When refering to section headings in text, they will also be italicized. For example, the section *Importing and Exporting Profiles* follows this section. 
+When referring to section headings, they will also be italicized. For example, the section *Importing and Exporting Profiles* follows this section. 
 
 ## Instructions Overview
 These instructions will teach you all about  
