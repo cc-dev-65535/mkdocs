@@ -51,9 +51,11 @@ Use *placeholder values* of $1, $2, $3, and so on in ascending order that allow 
 
     ...
 ```
-This text will be displayed alongside the snippet title in the IntelliSense shortcut menu when the snippet shortcut is visible. 
+This text will be displayed alongside the snippet title in the IntelliSense shortcut menu when the snippet shortcut is visible.
+
+7\. *Save* and *close* the JSON file. The code snippets can now be inserted when coding in that programming language.
   
-7\. *Test* out your code snippet by *creating* a file in your selected programming language and *typing* the prefix words you entered previously. You can then *select* the code snippet with the prefix name from the IntelliSense menu.
+8\. *Test* out your code snippet by *creating* a file in your selected programming language and *typing* one of the prefix words you entered previously. You can then *select* the code snippet with the prefix name from the IntelliSense menu.
 ![image](images/page4-img3.png)
 The code snippet will be inserted at the cursor position.
 
