@@ -11,9 +11,6 @@ A catch-all term for VS Code editor features that improve developer experience b
 ## Array
 A programming construct that represents a collection of similar things delineated by commas.
 
-## Boolean
-A programming concept that represents a value of true or false.
-
 ## code-profile
 The file extension of profiles that are created by VS Code for importing and exporting.
 
