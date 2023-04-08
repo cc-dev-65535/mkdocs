@@ -11,7 +11,7 @@ VS Code is a simple yet powerful IDE that many developers use for coding, but ma
 Intermediate level developers who already have some familiarity with the VS Code environment.
 
 ## Prerequisites
-* A Computer running a Windows Operating System
+* A computer running a Windows operating system
 * [VS Code Installation](https://code.visualstudio.com/download)
 * Working knowledge of simple programming concepts like arrays and JSON
 
