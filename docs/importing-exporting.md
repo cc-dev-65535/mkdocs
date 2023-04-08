@@ -14,8 +14,7 @@ This section teaches you about creating profiles and switching to them. You will
 2\. *Click* on **Create Profile...**
 
 3\. *Select* **Create an Empty Profile...**  
-![image](images/page2-img2.png)
-
+![image](images/page2-img2.png)  
 There is also the option to create a profile from your current settings if you wish.
 
 4\. *Input* a name for your profile and press **Enter.**  
