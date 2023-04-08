@@ -18,4 +18,4 @@ A programming concept that represents a value of true or false.
 The file extension of profiles that are created by VS Code for importing and exporting.
 
 ## IDE
-Stands for integrated development environment, which is a powerful text editor with additional debugging and compilation capabilities.
+Stands for *integrated development environment*, which is a powerful text editor with additional debugging and code compilation capabilities.

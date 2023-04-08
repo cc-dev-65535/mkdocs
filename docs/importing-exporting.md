@@ -2,10 +2,10 @@
 title: Importing and Exporting Profiles
 ---
 
-### Overview
+## Overview
 In this section you will learn about creating, importing, and exporting user profiles. Profiles allow you to save your settings and extensions into a file. This is helpful when you want to keep them across devices. 
 
-### Creating and Switching Profiles
+## Creating and Switching Profiles
 This section teaches you about creating profiles and switching to them. You will create a blank state profile as part of this process.
 
 1\. *Navigate* to **File > Preferences > Profiles** (Default) on the top bar.
@@ -31,7 +31,7 @@ Your profile was created, so now you will switch to it to check.
 
 You now know how to create a profile!
 
-### Exporting a Profile
+## Exporting a Profile
 This section teaches you how to export a profile as file.
 
 1\. *Navigate* to **File > Preferences > Profiles (Default).**
@@ -63,7 +63,7 @@ You can also *choose* to **save** the file as a GitHub gist, but *select* **Loca
 
 You have now *created* a code-profile file, which you can **share** or **import** at a later time.
 
-### Importing a Profile
+## Importing a Profile
 This section teaches you to import a profile file that you or someone else may have created.
 
 1\. *Navigate* to **File > Preferences > Profiles (Default).**
@@ -81,5 +81,5 @@ You can also enter a Gist URL for this step.
 
 You have now imported the profile with all desired settings and extensions! 
 
-### Conclusion
+## Conclusion
 At the end of this section, you will have mastered creating, importing, and exporting profiles. You will also know exactly what is saved inside of a profile file. Continue to the next instruction section to learn more about VS Code.

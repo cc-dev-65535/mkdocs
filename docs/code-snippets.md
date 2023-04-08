@@ -4,7 +4,7 @@ title: Making Code Snippets
 ## Overview
 Code Snippets are blocks of pre-written code that can be conveniently inserted into code through the IntelliSense shortcut menu. This section will detail how to create your own custom code snippet for any programming language you use in VS Code.  
 
-## Steps
+## Instructions
 1\. From the **File** menu, *click* **Preferences** and then *click* **Configure User Snippets**.
 ![image](images/page4-img1.png)  
 This will display the snippets file selector popup.  
